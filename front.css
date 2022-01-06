@@ -348,10 +348,10 @@ html{
     color: wheat;
 }
 #footer h2{
-    letter-spacing: 1em;
+    letter-spacing: 1rem;
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 0.8rem;
+    font-size: 1.1rem;
     color: wheat;
 }
 #footer .social-icon{
